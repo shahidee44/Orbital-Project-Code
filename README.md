@@ -2,7 +2,7 @@
 
 Note that this code was used for BTC but can be easily adopted for any coin that is supported on the coingecko analytics website.
 
-Please note that this serves as an experiment into the uses of Neural Networks in Price Prediction of Cryptos and is not meant to be financial advise but merely to provide information where the user, with his/her discretion, decides on whether to make such a purchase.
+Please note that this serves as an experiment into the uses of Neural Networks in Price Prediction of Cryptos and is not meant to be financial advise.
 
 ### Files:
 1) BTC+LSTM+CSVOutput+GraphOutput.ipynb is the main python code.
